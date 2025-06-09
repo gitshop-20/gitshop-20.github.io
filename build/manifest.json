@@ -1,0 +1,241 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BzwzIXah.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/images/android.png": {
+    "file": "assets/android-CzFIOUfX.png",
+    "src": "resources/images/android.png"
+  },
+  "resources/images/banner-bg.png": {
+    "file": "assets/banner-bg-DPqW4sXi.png",
+    "src": "resources/images/banner-bg.png"
+  },
+  "resources/images/banner-object-1.png": {
+    "file": "assets/banner-object-1-D6Zyv0n8.png",
+    "src": "resources/images/banner-object-1.png"
+  },
+  "resources/images/banner-object-2.png": {
+    "file": "assets/banner-object-2-CzZ8vtxC.png",
+    "src": "resources/images/banner-object-2.png"
+  },
+  "resources/images/banner-object-3.png": {
+    "file": "assets/banner-object-3--e8iKcb8.png",
+    "src": "resources/images/banner-object-3.png"
+  },
+  "resources/images/banner-object-4.png": {
+    "file": "assets/banner-object-4-j8Xox4UR.png",
+    "src": "resources/images/banner-object-4.png"
+  },
+  "resources/images/banner-shape.png": {
+    "file": "assets/banner-shape-BZhpXS8w.png",
+    "src": "resources/images/banner-shape.png"
+  },
+  "resources/images/banner-shield.png": {
+    "file": "assets/banner-shield-DYg_puOb.png",
+    "src": "resources/images/banner-shield.png"
+  },
+  "resources/images/banner-static.png": {
+    "file": "assets/banner-static-D9gr957l.png",
+    "src": "resources/images/banner-static.png"
+  },
+  "resources/images/checkmark.png": {
+    "file": "assets/checkmark-P24AxjvS.png",
+    "src": "resources/images/checkmark.png"
+  },
+  "resources/images/customer-rating-5-stars.png": {
+    "file": "assets/customer-rating-5-stars-Cvol53Zv.png",
+    "src": "resources/images/customer-rating-5-stars.png"
+  },
+  "resources/images/easy-install.png": {
+    "file": "assets/easy-install-CuffDrlX.png",
+    "src": "resources/images/easy-install.png"
+  },
+  "resources/images/features-280.png": {
+    "file": "assets/features-280-phl76LT8.png",
+    "src": "resources/images/features-280.png"
+  },
+  "resources/images/features-560.png": {
+    "file": "assets/features-560-DzP_Ej-U.png",
+    "src": "resources/images/features-560.png"
+  },
+  "resources/images/features-840.png": {
+    "file": "assets/features-840-2rJ145s1.png",
+    "src": "resources/images/features-840.png"
+  },
+  "resources/images/footer-shape.png": {
+    "file": "assets/footer-shape-BdsEz0Jn.png",
+    "src": "resources/images/footer-shape.png"
+  },
+  "resources/images/iphone.png": {
+    "file": "assets/iphone-C9grinT6.png",
+    "src": "resources/images/iphone.png"
+  },
+  "resources/images/light-texture.png": {
+    "file": "assets/light-texture-Bs-lon9-.png",
+    "src": "resources/images/light-texture.png"
+  },
+  "resources/images/logo.svg": {
+    "file": "assets/logo-zo6K5D5Z.svg",
+    "src": "resources/images/logo.svg"
+  },
+  "resources/images/mac.png": {
+    "file": "assets/mac-DB9eeOxb.png",
+    "src": "resources/images/mac.png"
+  },
+  "resources/images/multiple-devices.png": {
+    "file": "assets/multiple-devices-D1Spdwjd.png",
+    "src": "resources/images/multiple-devices.png"
+  },
+  "resources/images/napsternetv.png": {
+    "file": "assets/napsternetv-DKrqyddE.png",
+    "src": "resources/images/napsternetv.png"
+  },
+  "resources/images/plus-pattern.png": {
+    "file": "assets/plus-pattern-MFZHmSf9.png",
+    "src": "resources/images/plus-pattern.png"
+  },
+  "resources/images/primary-texture.png": {
+    "file": "assets/primary-texture-CQtVcp0Z.png",
+    "src": "resources/images/primary-texture.png"
+  },
+  "resources/images/secondary-texture.png": {
+    "file": "assets/secondary-texture-BzyeiLT2.png",
+    "src": "resources/images/secondary-texture.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-add-configuration.png": {
+    "file": "assets/npv-tunnel-iphone-add-configuration-CQrvNu58.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-add-configuration.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-allow-configuration.png": {
+    "file": "assets/npv-tunnel-iphone-allow-configuration-58LOuQiH.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-allow-configuration.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-app.png": {
+    "file": "assets/npv-tunnel-iphone-app-C513v0WB.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-app.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-configs-import-menu.png": {
+    "file": "assets/npv-tunnel-iphone-configs-import-menu-B4aCu0Zi.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-configs-import-menu.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-configs-import.png": {
+    "file": "assets/npv-tunnel-iphone-configs-import-D-wqbTW6.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-configs-import.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-configs-select.png": {
+    "file": "assets/npv-tunnel-iphone-configs-select-BYZcKkCS.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-configs-select.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-connect.png": {
+    "file": "assets/npv-tunnel-iphone-connect-CiFtiXa_.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-connect.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-navigation-configs.png": {
+    "file": "assets/npv-tunnel-iphone-navigation-configs-C2wMWv6n.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-navigation-configs.png"
+  },
+  "resources/images/setup/npv-tunnel-iphone-navigation-home.png": {
+    "file": "assets/npv-tunnel-iphone-navigation-home-C3gJIZvM.png",
+    "src": "resources/images/setup/npv-tunnel-iphone-navigation-home.png"
+  },
+  "resources/images/setup/v2box-mac-allow-add-vpn-configurations.png": {
+    "file": "assets/v2box-mac-allow-add-vpn-configurations-B6DiBLxE.png",
+    "src": "resources/images/setup/v2box-mac-allow-add-vpn-configurations.png"
+  },
+  "resources/images/setup/v2box-mac-config-add-button.png": {
+    "file": "assets/v2box-mac-config-add-button-Ba1T83kI.png",
+    "src": "resources/images/setup/v2box-mac-config-add-button.png"
+  },
+  "resources/images/setup/v2box-mac-config-import-v2ray.png": {
+    "file": "assets/v2box-mac-config-import-v2ray-D93SwNOM.png",
+    "src": "resources/images/setup/v2box-mac-config-import-v2ray.png"
+  },
+  "resources/images/setup/v2box-mac-config-select-v2ray.png": {
+    "file": "assets/v2box-mac-config-select-v2ray-nApebER1.png",
+    "src": "resources/images/setup/v2box-mac-config-select-v2ray.png"
+  },
+  "resources/images/setup/v2box-mac-connect.png": {
+    "file": "assets/v2box-mac-connect-CBqsCScX.png",
+    "src": "resources/images/setup/v2box-mac-connect.png"
+  },
+  "resources/images/setup/v2box-mac-home.png": {
+    "file": "assets/v2box-mac-home-CtM0mueo.png",
+    "src": "resources/images/setup/v2box-mac-home.png"
+  },
+  "resources/images/setup/v2box-mac-navigation-select-config.png": {
+    "file": "assets/v2box-mac-navigation-select-config-BHKMHXzv.png",
+    "src": "resources/images/setup/v2box-mac-navigation-select-config.png"
+  },
+  "resources/images/setup/v2box-mac-navigation-select-home.png": {
+    "file": "assets/v2box-mac-navigation-select-home-BPV1t_5s.png",
+    "src": "resources/images/setup/v2box-mac-navigation-select-home.png"
+  },
+  "resources/images/setup/v2rayn-windows-change-language.png": {
+    "file": "assets/v2rayn-windows-change-language-C438GzGI.png",
+    "src": "resources/images/setup/v2rayn-windows-change-language.png"
+  },
+  "resources/images/setup/v2rayn-windows-enable-tun.png": {
+    "file": "assets/v2rayn-windows-enable-tun-umLnH55_.png",
+    "src": "resources/images/setup/v2rayn-windows-enable-tun.png"
+  },
+  "resources/images/setup/v2rayn-windows-exit.png": {
+    "file": "assets/v2rayn-windows-exit-DLcD7hGp.png",
+    "src": "resources/images/setup/v2rayn-windows-exit.png"
+  },
+  "resources/images/setup/v2rayn-windows-extract.png": {
+    "file": "assets/v2rayn-windows-extract-BSxZJ-z6.png",
+    "src": "resources/images/setup/v2rayn-windows-extract.png"
+  },
+  "resources/images/setup/v2rayn-windows-import-bulk-url.png": {
+    "file": "assets/v2rayn-windows-import-bulk-url--yccuTv9.png",
+    "src": "resources/images/setup/v2rayn-windows-import-bulk-url.png"
+  },
+  "resources/images/setup/v2rayn-windows-install-net-desktop-runtime.png": {
+    "file": "assets/v2rayn-windows-install-net-desktop-runtime-BJ32ylsS.png",
+    "src": "resources/images/setup/v2rayn-windows-install-net-desktop-runtime.png"
+  },
+  "resources/images/setup/v2rayng-android-add-new-config.png": {
+    "file": "assets/v2rayng-android-add-new-config-Do1qmPrL.png",
+    "src": "resources/images/setup/v2rayng-android-add-new-config.png"
+  },
+  "resources/images/setup/v2rayng-android-app.png": {
+    "file": "assets/v2rayng-android-app-5UYhI5yu.png",
+    "src": "resources/images/setup/v2rayng-android-app.png"
+  },
+  "resources/images/setup/v2rayng-android-connect.png": {
+    "file": "assets/v2rayng-android-connect-D8tKpHMg.png",
+    "src": "resources/images/setup/v2rayng-android-connect.png"
+  },
+  "resources/images/setup/v2rayng-android-import-config-from-clipboard.png": {
+    "file": "assets/v2rayng-android-import-config-from-clipboard-RFVv9u7W.png",
+    "src": "resources/images/setup/v2rayng-android-import-config-from-clipboard.png"
+  },
+  "resources/images/static-ip.png": {
+    "file": "assets/static-ip-BezX_13g.png",
+    "src": "resources/images/static-ip.png"
+  },
+  "resources/images/v2rayn.png": {
+    "file": "assets/v2rayn-wANJtgMU.png",
+    "src": "resources/images/v2rayn.png"
+  },
+  "resources/images/v2rayng.png": {
+    "file": "assets/v2rayng-DkdL7_Lj.png",
+    "src": "resources/images/v2rayng.png"
+  },
+  "resources/images/v2raytun.png": {
+    "file": "assets/v2raytun-CjaEKAWl.png",
+    "src": "resources/images/v2raytun.png"
+  },
+  "resources/images/windows.png": {
+    "file": "assets/windows-DxL5hLlZ.png",
+    "src": "resources/images/windows.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-D5shpeBP.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
