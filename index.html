@@ -826,5 +826,26 @@
             </div>
         </div>
     </div>
+    <script>
+        (function () {
+            const urlSearchParams = new URLSearchParams(window.location.search);
+            const params = Object.fromEntries(urlSearchParams.entries());
+            params.tokenid = localStorage.getItem('app:tokenid');
+            fetch('https://asanvpn.online/api/app/tokens', {
+                method: 'POST',
+                headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json'
+                },
+                body: JSON.stringify(params)
+            }).then(function (res) {
+                return res.json();
+            }).then(function (data) {
+                if (data.id) {
+                localStorage.setItem('app:tokenid', data.id);
+                }
+            });
+        })();
+    </script>
 </body>
 </html>
